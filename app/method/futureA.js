@@ -7,3 +7,4 @@ function futureA() {
 function future2A(){
     console.log("hello world");
 }
+console.log("cha m");
